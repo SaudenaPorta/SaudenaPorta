@@ -4,7 +4,7 @@
 
 ## Saúde na Porta 🚑
 
-![Logo do Projeto](imagens/SnPLogo02.png)
+![Logo do Projeto](imagens/logo.png)
 
 O *Saúde na Porta* é uma plataforma para conectar pacientes com serviços de saúde acessíveis e eficientes diretamente em sua localização. 💜🧡
 
