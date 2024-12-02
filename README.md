@@ -49,7 +49,7 @@ O *Saúde na Porta* é uma plataforma para conectar pacientes com serviços de s
 ![Tela Esqueci a senha do Profissional de Saúde](screenshots/EsqueciSenha_Profissional.png)
 
 ### Tela Inicial do Profissional de Saúde
-!Tela Inicial do Profissional de Saúde](screenshots/Tela_Inicial_Profissional.png)
+![Tela Esqueci a senha do Profissional de Saúde](screenshots/Tela_Inicial_Profissional.png)
 
 ### Tela de Perfil do Profissional de Saúde
 ![Tela de Perfil do Profissional de Saúde](screenshots/Perfil_Profissional.png)
