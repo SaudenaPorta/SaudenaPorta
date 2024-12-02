@@ -13,17 +13,50 @@ O *Saúde na Porta* é uma plataforma para conectar pacientes com serviços de s
 ### Tela Principal
 ![Tela Principal](screenshots/Tela_Principal.png)
 
-### Tela de Cadastro de Paciente
-![Tela de Cadastro de Paciente](screenshots/Tela_Cadastro_Paciente.png)
+### Tela de Cadastro do Paciente
+![Tela de Cadastro do Paciente](screenshots/Cadastro_Paciente_Email.png)
 
-### Tela de Cadastro de Profissionais da Saúde
-![Tela de Cadastro de Profissionais da Saúde](screenshots/Tela_Cadastro_Profissional.png)
+### Tela de Continuação de Cadastro do Paciente
+![Tela de Continuação de Cadastro do Paciente](screenshots/Cadastro_Paciente_Continuação.png)
 
-### Tela de Perfil de Paciente
-![Tela de Perfil de Paciente](screenshots/Tela_Perfil_Paciente.png)
+### Tela de Login do Paciente
+![Tela de Login do Paciente](screenshots/Login_Paciente.png)
 
-### Tela de Perfil de Profissionais da Saúde
-![Tela de Perfil de Profissionais da Saúde](screenshots/Tela_Perfil_Profissional.png)
+### Tela Esqueci a senha do Paciente
+![Tela Esqueci a senha do Paciente](screenshots/EsqueciSenha_Paciente.png)
+
+### Tela Inicial do Paciente
+![Tela Inicial do Paciente](screenshots/Tela_Inicial_Paciente.png)
+
+### Tela de Perfil do Paciente
+![Tela de Perfil do Paciente](screenshots/Perfil_Paciente.png)
+
+### Tela de Visualizar Profissional do Paciente
+![Tela de Visualizar Profissional do Paciente](screenshots/Visualizar_Profissional.png)
+
+---
+
+### Tela de Cadastro do Profissional de Saúde
+![Tela de Cadastro do Profissional de Saúde](screenshots/Cadastro_Profissional_Email.png)
+
+### Tela de Continuação de Cadastro do Profissional de Saúde
+![Tela de Continuação de Cadastro do Profissional de Saúde](screenshots/Cadastro_Profissional_Continuação.png)
+
+### Tela de Login do Profissional de Saúde
+![Tela de Login do Profissional de Saúde](screenshots/Login_Profissional.png)
+
+### Tela Esqueci a senha do Profissional de Saúde
+![Tela Esqueci a senha do Profissional de Saúde](screenshots/EsqueciSenha_Profissional.png)
+
+### Tela Inicial do Profissional de Saúde
+![Tela Esqueci a senha do Profissional de Saúde](screenshots/Tela_Inicial_Profissional.png)
+
+### Tela de Perfil do Profissional de Saúde
+![Tela de Perfil do Profissional de Saúde](screenshots/Perfil_Profissional.png)
+
+### Tela de Visualizar Paciente do Profissional de Saúde
+![Tela de Visualizar Paciente do Profissional de Saúde](screenshots/Visualizar_Paciente.png)
+
 
 ## Público-Alvo 🎯
 
