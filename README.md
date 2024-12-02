@@ -22,11 +22,11 @@ O *Saúde na Porta* é uma plataforma para conectar pacientes com serviços de s
 ### Tela de Login do Paciente
 ![Tela de Login do Paciente](screenshots/Login_Paciente.png)
 
-### Tela Inicial do Paciente
-![Tela Inicial do Paciente](screenshots/Tela_Inicial_Paciente.png)
-
 ### Tela Esqueci a senha do Paciente
 ![Tela Esqueci a senha do Paciente](screenshots/EsqueciSenha_Paciente.png)
+
+### Tela Inicial do Paciente
+![Tela Inicial do Paciente](screenshots/Tela_Inicial_Paciente.png)
 
 ### Tela de Perfil do Paciente
 ![Tela de Perfil do Paciente](screenshots/Perfil_Paciente.png)
@@ -45,11 +45,11 @@ O *Saúde na Porta* é uma plataforma para conectar pacientes com serviços de s
 ### Tela de Login do Profissional de Saúde
 ![Tela de Login do Profissional de Saúde](screenshots/Login_Profissional.png)
 
-### Tela Inicial do Profissional de Saúde
-!Tela Inicial do Profissional de Saúde](screenshots/Tela_Inicial_Profissional.png)
-
 ### Tela Esqueci a senha do Profissional de Saúde
 ![Tela Esqueci a senha do Profissional de Saúde](screenshots/EsqueciSenha_Profissional.png)
+
+### Tela Inicial do Profissional de Saúde
+!Tela Inicial do Profissional de Saúde](screenshots/Tela_Inicial_Profissional.png)
 
 ### Tela de Perfil do Profissional de Saúde
 ![Tela de Perfil do Profissional de Saúde](screenshots/Perfil_Profissional.png)
